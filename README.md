@@ -1,6 +1,6 @@
 # JuliaPaCODEah
 
-##Session 1
+## Session 1
 Topics covered:
 * Displaying Output
 * Commenting code
